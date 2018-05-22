@@ -8,3 +8,5 @@ Untracked - arquivo não reconhecido pelo git
 Unmodified - arquivo não modificado
 Modified - arquivo modificado
 Staged - arquivo pronto para ser comitado
+
+Aprendendo a usar o GitHub
